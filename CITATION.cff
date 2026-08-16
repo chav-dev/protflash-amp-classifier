@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "ProtFlash AMP Classifier"
+version: 1.0.0
+date-released: "2026-08-09"
+license: AGPL-3.0
+repository-code: "https://github.com/YOUR_USERNAME/protflash-amp-classifier"
+url: "https://github.com/YOUR_USERNAME/protflash-amp-classifier"
+abstract: >-
+  A PyTorch pipeline for antimicrobial peptide classification using ProtFlash
+  protein embeddings, AAontology enrichment, Mean/Gated pooling strategies,
+  and MLP/CNN/BiLSTM classifiers, including external validation and
+  explainability analysis.
+keywords:
+  - antimicrobial-peptides
+  - AMP-classification
+  - protein-embeddings
+  - ProtFlash
+  - AAontology
+  - mean-pooling
+  - gated-pooling
+  - MLP
+  - CNN
+  - BiLSTM
+  - explainable-AI
+  - PyTorch
+  - bioinformatics
+authors:
+  - given-names: "Chavelys"
+    family-names: "Fernández Quintero"
+    orcid: "https://orcid.org/0009-0003-7983-1914"
+  - given-names: "Miguel Angel"
+    family-names: "Fernández"
+    orcid: "https://orcid.org/0000-0002-6132-539X"
+  - given-names: "Daniela"
+    family-names: "Fuentes Morales"
+    orcid: "https://orcid.org/0009-0002-8344-0070"
+  - given-names: "Christian David"
+    family-names: "Castellanos Isern"
+    orcid: "https://orcid.org/0009-0002-3028-4772"
+  - given-names: "Reydel"
+    family-names: "Fanjul Evora"
+    orcid: "https://orcid.org/0009-0001-7133-1654"
+  - given-names: "Daniel Alejandro"
+    family-names: "Alfonso Bermúdez"
+    orcid: "https://orcid.org/0009-0005-5537-3167"
+  - given-names: "Guillermin"
+    family-names: "Agüero Chapin"
+    orcid: "https://orcid.org/0000-0002-9908-2418"
+  - given-names: "Alejandro"
+    family-names: "Cespón Ferriol"
+    orcid: "https://orcid.org/0000-0002-8584-6958"
+  - given-names: "Deborah"
+    family-names: "Galpert Cañizares"
+    orcid: "https://orcid.org/0000-0002-5222-3324"
