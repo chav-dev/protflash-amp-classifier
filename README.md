@@ -640,3 +640,22 @@ This project is licensed under the **GNU Affero General Public License v3.0**.
 You are free to use, modify, and distribute this work under the terms of the AGPL-3.0 license. If you provide this software, or a modified version of it, as a network service, you must make the corresponding source code available under the same license terms.
 
 For full license details, see the [LICENSE](LICENSE) file.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+---
+
+## 📬 Contact
+
+- **GitHub:** [@chav_dev](https://github.com/chav-dev)
+- **Email:** fernandezchavelys01@gmail.com
