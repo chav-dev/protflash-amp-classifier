@@ -1,56 +1,45 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-type: software
 title: "ProtFlash AMP Classifier"
 version: 1.0.0
-date-released: "2026-08-09"
+date-released: 2026-08-01
+url: "https://github.com/chav_dev/protflash-amp-classifier"
 license: AGPL-3.0
-repository-code: "https://github.com/YOUR_USERNAME/protflash-amp-classifier"
-url: "https://github.com/YOUR_USERNAME/protflash-amp-classifier"
-abstract: >-
-  A PyTorch pipeline for antimicrobial peptide classification using ProtFlash
-  protein embeddings, AAontology enrichment, Mean/Gated pooling strategies,
-  and MLP/CNN/BiLSTM classifiers, including external validation and
-  explainability analysis.
 keywords:
   - antimicrobial-peptides
-  - AMP-classification
   - protein-embeddings
-  - ProtFlash
-  - AAontology
-  - mean-pooling
-  - gated-pooling
-  - MLP
-  - CNN
-  - BiLSTM
-  - explainable-AI
-  - PyTorch
+  - deep-learning
   - bioinformatics
+  - amp-classification
+  - protflash
+  - aaontology
+  - gated-pooling
+  - explainable-ai
 authors:
-  - given-names: "Chavelys"
-    family-names: "Fernández Quintero"
+  - family-names: "Fernández Quintero"
+    given-names: "Chavelys"
     orcid: "https://orcid.org/0009-0003-7983-1914"
-  - given-names: "Miguel Angel"
-    family-names: "Fernández"
-    orcid: "https://orcid.org/0000-0002-6132-539X"
-  - given-names: "Daniela"
-    family-names: "Fuentes Morales"
+  - family-names: "Fernández"
+    given-names: "Miguel Angel"
+    orcid: "https://orcid.org/000-0002-6132-539X"
+  - family-names: "Fuentes Morales"
+    given-names: "Daniela"
     orcid: "https://orcid.org/0009-0002-8344-0070"
-  - given-names: "Christian David"
-    family-names: "Castellanos Isern"
+  - family-names: "Castellanos Isern"
+    given-names: "Christian David"
     orcid: "https://orcid.org/0009-0002-3028-4772"
-  - given-names: "Reydel"
-    family-names: "Fanjul Evora"
+  - family-names: "Fanjul Evora"
+    given-names: "Reydel"
     orcid: "https://orcid.org/0009-0001-7133-1654"
-  - given-names: "Daniel Alejandro"
-    family-names: "Alfonso Bermúdez"
+  - family-names: "Alfonso Bermúdez"
+    given-names: "Daniel Alejandro"
     orcid: "https://orcid.org/0009-0005-5537-3167"
-  - given-names: "Guillermin"
-    family-names: "Agüero Chapin"
+  - family-names: "Agüero Chapin"
+    given-names: "Guillermin"
     orcid: "https://orcid.org/0000-0002-9908-2418"
-  - given-names: "Alejandro"
-    family-names: "Cespón Ferriol"
+  - family-names: "Cespón Ferriol"
+    given-names: "Alejandro"
     orcid: "https://orcid.org/0000-0002-8584-6958"
-  - given-names: "Deborah"
-    family-names: "Galpert Cañizares"
+  - family-names: "Galpert Cañizares"
+    given-names: "Deborah"
     orcid: "https://orcid.org/0000-0002-5222-3324"
