@@ -337,7 +337,7 @@ The XAI analysis provides residue-level importance scores that help interpret wh
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/protflash-amp-classifier.git
+git clone https://github.com/chav-dev/protflash-amp-classifier.git
 cd protflash-amp-classifier
 ```
 
@@ -537,7 +537,7 @@ If you use this repository, please cite it as:
   title        = {ProtFlash AMP Classifier},
   subtitle     = {AMP classification using ProtFlash embeddings, AAontology enrichment, Mean/Gated pooling, and MLP/CNN/BiLSTM architectures},
   year         = {2026},
-  url          = {https://github.com/YOUR_USERNAME/protflash-amp-classifier},
+  url          = {https://github.com/chav-dev/protflash-amp-classifier.gitr},
   license      = {AGPL-3.0}
 }
 ```
@@ -552,8 +552,8 @@ title: "ProtFlash AMP Classifier"
 version: 1.0.0
 date-released: "2026-08-09"
 license: AGPL-3.0
-repository-code: "https://github.com/YOUR_USERNAME/protflash-amp-classifier"
-url: "https://github.com/YOUR_USERNAME/protflash-amp-classifier"
+repository-code: "https://github.com/chav-dev/protflash-amp-classifier.git"
+url: "https://github.com/chav-dev/protflash-amp-classifier.git"
 authors:
   - given-names: "Chavelys"
     family-names: "Fernández Quintero"
